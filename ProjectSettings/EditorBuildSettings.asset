@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MovementHipPinning.unity
+    guid: c87928a7c3febbb4eb2ea23a67ec01ba
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7e1d40d2201b76d4393c546e981302f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6c434742af4bd29499c0d038930bb28c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9150be21c1f1852459fb233e7f021494, type: 2}
