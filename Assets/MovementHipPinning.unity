@@ -313,7 +313,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.18178178, g: 0.5390041, b: 0.8962264, a: 1}
-  m_Intensity: 4.54
+  m_Intensity: 3.7
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1213,7 +1213,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2476541160599945763, guid: 9000778e46f7a85489200a07924d6fea, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.743
+      value: 1.887
       objectReference: {fileID: 0}
     - target: {fileID: 2476541160599945763, guid: 9000778e46f7a85489200a07924d6fea, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1630,6 +1630,10 @@ PrefabInstance:
       propertyPath: _hipPinningLogic
       value: 
       objectReference: {fileID: 5041646639421274662}
+    - target: {fileID: 109264207718748340, guid: 926bcf9250e0f85499d39eadc58a7470, type: 3}
+      propertyPath: m_text
+      value: J'ai dit assis ! reste assis !!!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 926bcf9250e0f85499d39eadc58a7470, type: 3}
 --- !u!1001 &2558818634645322251
