@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.meta.movement": {
-      "version": "https://github.com/oculus-samples/Unity-Movement",
+      "version": "git:https://github.com/oculus-samples/Unity-Movement",
       "depth": 0,
       "source": "local",
       "dependencies": {
